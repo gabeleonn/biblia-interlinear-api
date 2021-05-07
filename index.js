@@ -54,4 +54,6 @@ app.get('/paths', (req, res) => {
     })
 })
 
-app.listen(8000);
+const PORT = process.env.PORT || 8000;
+
+app.listen(PORT);
