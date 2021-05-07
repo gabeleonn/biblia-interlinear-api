@@ -1,0 +1,22 @@
+[
+    {
+        "name": "description",
+        "value": "Strong-PT Dicionários BDB-Thayer-TVM "
+    },
+    {
+        "name": "language",
+        "value": "pt"
+    },
+    {
+        "name": "cognate_strong_numbers_info",
+        "value": "Cognato: %s"
+    },
+    {
+        "name": "is_strong",
+        "value": "true"
+    },
+    {
+        "name": "articles_language",
+        "value": "pt"
+    }
+]
